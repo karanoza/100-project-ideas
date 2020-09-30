@@ -1,4 +1,4 @@
-# 100-project-ideas
+# 101-project-ideas
 
 ### Topics
 
@@ -101,4 +101,5 @@
 97. Moments celebration timer
 98. Youtube subscribers count mock
 99. Subscribe and bell icon gif
-100. A Perfect portfolio ✌️
+100. Blackjack card Game
+101. A Perfect portfolio ✌️
